@@ -1,0 +1,11 @@
+D:\Studying\C#_Projects\I-O_HomeWork\FileFinder\bin\Debug\FileFinder.exe.config
+D:\Studying\C#_Projects\I-O_HomeWork\FileFinder\bin\Debug\FileFinder.exe
+D:\Studying\C#_Projects\I-O_HomeWork\FileFinder\bin\Debug\FileFinder.pdb
+D:\Studying\C#_Projects\I-O_HomeWork\FileFinder\obj\Debug\FileFinder.csprojResolveAssemblyReference.cache
+D:\Studying\C#_Projects\I-O_HomeWork\FileFinder\obj\Debug\FileFinder.MainWindow.resources
+D:\Studying\C#_Projects\I-O_HomeWork\FileFinder\obj\Debug\FileFinder.Properties.Resources.resources
+D:\Studying\C#_Projects\I-O_HomeWork\FileFinder\obj\Debug\FileFinder.csproj.GenerateResource.Cache
+D:\Studying\C#_Projects\I-O_HomeWork\FileFinder\obj\Debug\FileFinder.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Projects\I-O_HomeWork\FileFinder\obj\Debug\FileFinder.exe
+D:\Studying\C#_Projects\I-O_HomeWork\FileFinder\obj\Debug\FileFinder.pdb
+D:\Studying\C#_Projects\I-O_HomeWork\FileFinder\obj\Debug\FileFinder.ContentViewer.resources

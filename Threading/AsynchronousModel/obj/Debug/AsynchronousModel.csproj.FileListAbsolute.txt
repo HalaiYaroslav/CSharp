@@ -1,0 +1,10 @@
+D:\GitHub\Learning-way\C#_Projects\Threading\AsynchronousModel\bin\Debug\AsynchronousModel.exe.config
+D:\GitHub\Learning-way\C#_Projects\Threading\AsynchronousModel\bin\Debug\AsynchronousModel.exe
+D:\GitHub\Learning-way\C#_Projects\Threading\AsynchronousModel\bin\Debug\AsynchronousModel.pdb
+D:\GitHub\Learning-way\C#_Projects\Threading\AsynchronousModel\obj\Debug\AsynchronousModel.MainForm.resources
+D:\GitHub\Learning-way\C#_Projects\Threading\AsynchronousModel\obj\Debug\AsynchronousModel.Properties.Resources.resources
+D:\GitHub\Learning-way\C#_Projects\Threading\AsynchronousModel\obj\Debug\AsynchronousModel.csproj.GenerateResource.Cache
+D:\GitHub\Learning-way\C#_Projects\Threading\AsynchronousModel\obj\Debug\AsynchronousModel.csproj.CoreCompileInputs.cache
+D:\GitHub\Learning-way\C#_Projects\Threading\AsynchronousModel\obj\Debug\AsynchronousModel.exe
+D:\GitHub\Learning-way\C#_Projects\Threading\AsynchronousModel\obj\Debug\AsynchronousModel.pdb
+D:\GitHub\Learning-way\C#_Projects\Threading\AsynchronousModel\obj\Debug\AsynchronousModel.csprojResolveAssemblyReference.cache

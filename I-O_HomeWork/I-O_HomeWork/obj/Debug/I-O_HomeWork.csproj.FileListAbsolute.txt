@@ -1,0 +1,7 @@
+D:\Studying\C#_Projects\I-O_HomeWork\I-O_HomeWork\bin\Debug\I-O_HomeWork.exe.config
+D:\Studying\C#_Projects\I-O_HomeWork\I-O_HomeWork\bin\Debug\I-O_HomeWork.exe
+D:\Studying\C#_Projects\I-O_HomeWork\I-O_HomeWork\bin\Debug\I-O_HomeWork.pdb
+D:\Studying\C#_Projects\I-O_HomeWork\I-O_HomeWork\obj\Debug\I-O_HomeWork.csprojResolveAssemblyReference.cache
+D:\Studying\C#_Projects\I-O_HomeWork\I-O_HomeWork\obj\Debug\I-O_HomeWork.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Projects\I-O_HomeWork\I-O_HomeWork\obj\Debug\I-O_HomeWork.exe
+D:\Studying\C#_Projects\I-O_HomeWork\I-O_HomeWork\obj\Debug\I-O_HomeWork.pdb

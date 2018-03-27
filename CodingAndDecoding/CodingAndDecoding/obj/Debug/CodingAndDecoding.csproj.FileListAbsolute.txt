@@ -1,0 +1,32 @@
+D:\KPI\Проекти Студії\CodingAndDecoding\CodingAndDecoding\bin\Debug\CodingAndDecoding.exe.config
+D:\KPI\Проекти Студії\CodingAndDecoding\CodingAndDecoding\bin\Debug\CodingAndDecoding.exe
+D:\KPI\Проекти Студії\CodingAndDecoding\CodingAndDecoding\bin\Debug\CodingAndDecoding.pdb
+D:\KPI\Проекти Студії\CodingAndDecoding\CodingAndDecoding\obj\Debug\CodingAndDecoding.csprojResolveAssemblyReference.cache
+D:\KPI\Проекти Студії\CodingAndDecoding\CodingAndDecoding\obj\Debug\CodingAndDecoding.MainForm.resources
+D:\KPI\Проекти Студії\CodingAndDecoding\CodingAndDecoding\obj\Debug\CodingAndDecoding.Properties.Resources.resources
+D:\KPI\Проекти Студії\CodingAndDecoding\CodingAndDecoding\obj\Debug\CodingAndDecoding.csproj.GenerateResource.Cache
+D:\KPI\Проекти Студії\CodingAndDecoding\CodingAndDecoding\obj\Debug\CodingAndDecoding.exe
+D:\KPI\Проекти Студії\CodingAndDecoding\CodingAndDecoding\obj\Debug\CodingAndDecoding.pdb
+D:\KPI\Проекти Студії\CodingAndDecoding\CodingAndDecoding\obj\Debug\CodingAndDecoding.Gray.resources
+D:\KPI\Проекти Студії\CodingAndDecoding\CodingAndDecoding\obj\Debug\CodingAndDecoding.BCD.resources
+D:\KPI\Проекти Студії\CodingAndDecoding\CodingAndDecoding\obj\Debug\CodingAndDecoding.Berger.resources
+D:\KPI\Проекти Студії\CodingAndDecoding\CodingAndDecoding\obj\Debug\CodingAndDecoding.Elias.resources
+D:\KPI\Проекти Студії\CodingAndDecoding\CodingAndDecoding\obj\Debug\CodingAndDecoding.About.resources
+D:\KPI\Проекти Студії\CodingAndDecoding\CodingAndDecoding\obj\Debug\CodingAndDecoding.SimpleReiteration.resources
+D:\KPI\Проекти Студії\CodingAndDecoding\CodingAndDecoding\obj\Debug\CodingAndDecoding.csproj.CoreCompileInputs.cache
+D:\GitHub\Learning-way\CodingAndDecoding\CodingAndDecoding\bin\Debug\CodingAndDecoding.exe.config
+D:\GitHub\Learning-way\CodingAndDecoding\CodingAndDecoding\bin\Debug\CodingAndDecoding.exe
+D:\GitHub\Learning-way\CodingAndDecoding\CodingAndDecoding\bin\Debug\CodingAndDecoding.pdb
+D:\GitHub\Learning-way\CodingAndDecoding\CodingAndDecoding\obj\Debug\CodingAndDecoding.csprojResolveAssemblyReference.cache
+D:\GitHub\Learning-way\CodingAndDecoding\CodingAndDecoding\obj\Debug\CodingAndDecoding.About.resources
+D:\GitHub\Learning-way\CodingAndDecoding\CodingAndDecoding\obj\Debug\CodingAndDecoding.BCD.resources
+D:\GitHub\Learning-way\CodingAndDecoding\CodingAndDecoding\obj\Debug\CodingAndDecoding.Berger.resources
+D:\GitHub\Learning-way\CodingAndDecoding\CodingAndDecoding\obj\Debug\CodingAndDecoding.Elias.resources
+D:\GitHub\Learning-way\CodingAndDecoding\CodingAndDecoding\obj\Debug\CodingAndDecoding.Gray.resources
+D:\GitHub\Learning-way\CodingAndDecoding\CodingAndDecoding\obj\Debug\CodingAndDecoding.MainForm.resources
+D:\GitHub\Learning-way\CodingAndDecoding\CodingAndDecoding\obj\Debug\CodingAndDecoding.Properties.Resources.resources
+D:\GitHub\Learning-way\CodingAndDecoding\CodingAndDecoding\obj\Debug\CodingAndDecoding.SimpleReiteration.resources
+D:\GitHub\Learning-way\CodingAndDecoding\CodingAndDecoding\obj\Debug\CodingAndDecoding.csproj.GenerateResource.Cache
+D:\GitHub\Learning-way\CodingAndDecoding\CodingAndDecoding\obj\Debug\CodingAndDecoding.csproj.CoreCompileInputs.cache
+D:\GitHub\Learning-way\CodingAndDecoding\CodingAndDecoding\obj\Debug\CodingAndDecoding.exe
+D:\GitHub\Learning-way\CodingAndDecoding\CodingAndDecoding\obj\Debug\CodingAndDecoding.pdb

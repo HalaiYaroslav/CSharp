@@ -1,0 +1,7 @@
+D:\GitHub\Learning-way\C#_Projects\Threading\OnlyOneProjectCanWork\bin\Release\OnlyOneProjectCanWork.exe.config
+D:\GitHub\Learning-way\C#_Projects\Threading\OnlyOneProjectCanWork\bin\Release\OnlyOneProjectCanWork.exe
+D:\GitHub\Learning-way\C#_Projects\Threading\OnlyOneProjectCanWork\bin\Release\OnlyOneProjectCanWork.pdb
+D:\GitHub\Learning-way\C#_Projects\Threading\OnlyOneProjectCanWork\obj\Release\OnlyOneProjectCanWork.csprojResolveAssemblyReference.cache
+D:\GitHub\Learning-way\C#_Projects\Threading\OnlyOneProjectCanWork\obj\Release\OnlyOneProjectCanWork.csproj.CoreCompileInputs.cache
+D:\GitHub\Learning-way\C#_Projects\Threading\OnlyOneProjectCanWork\obj\Release\OnlyOneProjectCanWork.exe
+D:\GitHub\Learning-way\C#_Projects\Threading\OnlyOneProjectCanWork\obj\Release\OnlyOneProjectCanWork.pdb

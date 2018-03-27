@@ -1,0 +1,6 @@
+D:\KPI\Проекти Студії\Relationship M2M  M2O\Relationship M2M  M2O\bin\Debug\Relationship M2M  M2O.exe.config
+D:\KPI\Проекти Студії\Relationship M2M  M2O\Relationship M2M  M2O\bin\Debug\Relationship M2M  M2O.exe
+D:\KPI\Проекти Студії\Relationship M2M  M2O\Relationship M2M  M2O\bin\Debug\Relationship M2M  M2O.pdb
+D:\KPI\Проекти Студії\Relationship M2M  M2O\Relationship M2M  M2O\obj\Debug\Relationship M2M  M2O.csprojResolveAssemblyReference.cache
+D:\KPI\Проекти Студії\Relationship M2M  M2O\Relationship M2M  M2O\obj\Debug\Relationship M2M  M2O.exe
+D:\KPI\Проекти Студії\Relationship M2M  M2O\Relationship M2M  M2O\obj\Debug\Relationship M2M  M2O.pdb

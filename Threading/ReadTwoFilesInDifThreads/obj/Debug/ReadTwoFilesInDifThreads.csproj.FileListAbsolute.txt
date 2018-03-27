@@ -1,0 +1,14 @@
+D:\Studying\1)C#\03 [ITVDN] C# Professional\[ITVDN] C# Professional\011 - Потоки. Часть 1\011 - Потоки\007_Lock\ReadTwoFilesInDifThreads\bin\Debug\ReadTwoFilesInDifThreads.exe.config
+D:\Studying\1)C#\03 [ITVDN] C# Professional\[ITVDN] C# Professional\011 - Потоки. Часть 1\011 - Потоки\007_Lock\ReadTwoFilesInDifThreads\bin\Debug\ReadTwoFilesInDifThreads.exe
+D:\Studying\1)C#\03 [ITVDN] C# Professional\[ITVDN] C# Professional\011 - Потоки. Часть 1\011 - Потоки\007_Lock\ReadTwoFilesInDifThreads\bin\Debug\ReadTwoFilesInDifThreads.pdb
+D:\Studying\1)C#\03 [ITVDN] C# Professional\[ITVDN] C# Professional\011 - Потоки. Часть 1\011 - Потоки\007_Lock\ReadTwoFilesInDifThreads\obj\Debug\ReadTwoFilesInDifThreads.csprojResolveAssemblyReference.cache
+D:\Studying\1)C#\03 [ITVDN] C# Professional\[ITVDN] C# Professional\011 - Потоки. Часть 1\011 - Потоки\007_Lock\ReadTwoFilesInDifThreads\obj\Debug\ReadTwoFilesInDifThreads.csproj.CoreCompileInputs.cache
+D:\Studying\1)C#\03 [ITVDN] C# Professional\[ITVDN] C# Professional\011 - Потоки. Часть 1\011 - Потоки\007_Lock\ReadTwoFilesInDifThreads\obj\Debug\ReadTwoFilesInDifThreads.exe
+D:\Studying\1)C#\03 [ITVDN] C# Professional\[ITVDN] C# Professional\011 - Потоки. Часть 1\011 - Потоки\007_Lock\ReadTwoFilesInDifThreads\obj\Debug\ReadTwoFilesInDifThreads.pdb
+D:\GitHub\Learning-way\C#_Projects\Threading\ReadTwoFilesInDifThreads\bin\Debug\ReadTwoFilesInDifThreads.exe.config
+D:\GitHub\Learning-way\C#_Projects\Threading\ReadTwoFilesInDifThreads\bin\Debug\ReadTwoFilesInDifThreads.exe
+D:\GitHub\Learning-way\C#_Projects\Threading\ReadTwoFilesInDifThreads\bin\Debug\ReadTwoFilesInDifThreads.pdb
+D:\GitHub\Learning-way\C#_Projects\Threading\ReadTwoFilesInDifThreads\obj\Debug\ReadTwoFilesInDifThreads.csprojResolveAssemblyReference.cache
+D:\GitHub\Learning-way\C#_Projects\Threading\ReadTwoFilesInDifThreads\obj\Debug\ReadTwoFilesInDifThreads.csproj.CoreCompileInputs.cache
+D:\GitHub\Learning-way\C#_Projects\Threading\ReadTwoFilesInDifThreads\obj\Debug\ReadTwoFilesInDifThreads.exe
+D:\GitHub\Learning-way\C#_Projects\Threading\ReadTwoFilesInDifThreads\obj\Debug\ReadTwoFilesInDifThreads.pdb

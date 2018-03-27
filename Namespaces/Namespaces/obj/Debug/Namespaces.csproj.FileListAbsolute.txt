@@ -1,0 +1,8 @@
+D:\Studying\Homeworks\Namespaces\Namespaces\obj\Debug\Namespaces.csprojResolveAssemblyReference.cache
+D:\Studying\Homeworks\Namespaces\Namespaces\bin\Debug\Namespaces.exe.config
+D:\Studying\Homeworks\Namespaces\Namespaces\bin\Debug\Namespaces.exe
+D:\Studying\Homeworks\Namespaces\Namespaces\bin\Debug\Namespaces.pdb
+D:\Studying\Homeworks\Namespaces\Namespaces\bin\Debug\ClassLibrary.dll
+D:\Studying\Homeworks\Namespaces\Namespaces\bin\Debug\ClassLibrary.pdb
+D:\Studying\Homeworks\Namespaces\Namespaces\obj\Debug\Namespaces.exe
+D:\Studying\Homeworks\Namespaces\Namespaces\obj\Debug\Namespaces.pdb

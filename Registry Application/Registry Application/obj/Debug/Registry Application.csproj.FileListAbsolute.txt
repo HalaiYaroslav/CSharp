@@ -1,0 +1,18 @@
+D:\KPI\Проекти Студії\Registry Application\Registry Application\bin\Debug\Registry Application.exe.config
+D:\KPI\Проекти Студії\Registry Application\Registry Application\bin\Debug\Registry Application.exe
+D:\KPI\Проекти Студії\Registry Application\Registry Application\bin\Debug\Registry Application.pdb
+D:\KPI\Проекти Студії\Registry Application\Registry Application\obj\Debug\Registry Application.csprojResolveAssemblyReference.cache
+D:\KPI\Проекти Студії\Registry Application\Registry Application\obj\Debug\Registry_Application.MainForm.resources
+D:\KPI\Проекти Студії\Registry Application\Registry Application\obj\Debug\Registry_Application.Properties.Resources.resources
+D:\KPI\Проекти Студії\Registry Application\Registry Application\obj\Debug\Registry Application.csproj.GenerateResource.Cache
+D:\KPI\Проекти Студії\Registry Application\Registry Application\obj\Debug\Registry Application.exe
+D:\KPI\Проекти Студії\Registry Application\Registry Application\obj\Debug\Registry Application.pdb
+D:\KPI\Проекти Студії\Registry Application\Registry Application\obj\Debug\Registry_Application.Doctors.resources
+D:\KPI\Проекти Студії\Registry Application\Registry Application\obj\Debug\Registry_Application.EditingDoctors.resources
+D:\KPI\Проекти Студії\Registry Application\Registry Application\obj\Debug\Registry_Application.Patients.resources
+D:\KPI\Проекти Студії\Registry Application\Registry Application\obj\Debug\Registry_Application.EditingPatients.resources
+D:\KPI\Проекти Студії\Registry Application\Registry Application\obj\Debug\Registry_Application.About.resources
+D:\KPI\Проекти Студії\Registry Application\Registry Application\obj\Debug\Registry_Application.CreateMadication.resources
+D:\KPI\Проекти Студії\Registry Application\Registry Application\obj\Debug\Registry_Application.CreateRecipe.resources
+D:\KPI\Проекти Студії\Registry Application\Registry Application\bin\Debug\RegistryDataBase.accdb
+D:\KPI\Проекти Студії\Registry Application\Registry Application\obj\Debug\Registry Application.csproj.CoreCompileInputs.cache

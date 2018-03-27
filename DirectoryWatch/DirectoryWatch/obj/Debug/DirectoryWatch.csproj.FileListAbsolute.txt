@@ -1,0 +1,19 @@
+C:\Saves\Visual Studio 2015\Projects\DirectoryWatch\DirectoryWatch\bin\Debug\DirectoryWatch.exe.config
+C:\Saves\Visual Studio 2015\Projects\DirectoryWatch\DirectoryWatch\bin\Debug\DirectoryWatch.exe
+C:\Saves\Visual Studio 2015\Projects\DirectoryWatch\DirectoryWatch\bin\Debug\DirectoryWatch.pdb
+C:\Saves\Visual Studio 2015\Projects\DirectoryWatch\DirectoryWatch\obj\Debug\DirectoryWatch.csprojResolveAssemblyReference.cache
+C:\Saves\Visual Studio 2015\Projects\DirectoryWatch\DirectoryWatch\obj\Debug\DirectoryWatch.MainForm.resources
+C:\Saves\Visual Studio 2015\Projects\DirectoryWatch\DirectoryWatch\obj\Debug\DirectoryWatch.Properties.Resources.resources
+C:\Saves\Visual Studio 2015\Projects\DirectoryWatch\DirectoryWatch\obj\Debug\DirectoryWatch.csproj.GenerateResource.Cache
+C:\Saves\Visual Studio 2015\Projects\DirectoryWatch\DirectoryWatch\obj\Debug\DirectoryWatch.exe
+C:\Saves\Visual Studio 2015\Projects\DirectoryWatch\DirectoryWatch\obj\Debug\DirectoryWatch.pdb
+D:\KPI\Проекти Студії\DirectoryWatch\DirectoryWatch\bin\Debug\DirectoryWatch.exe.config
+D:\KPI\Проекти Студії\DirectoryWatch\DirectoryWatch\obj\Debug\DirectoryWatch.exe
+D:\KPI\Проекти Студії\DirectoryWatch\DirectoryWatch\obj\Debug\DirectoryWatch.pdb
+D:\KPI\Проекти Студії\DirectoryWatch\DirectoryWatch\bin\Debug\DirectoryWatch.exe
+D:\KPI\Проекти Студії\DirectoryWatch\DirectoryWatch\bin\Debug\DirectoryWatch.pdb
+D:\KPI\Проекти Студії\DirectoryWatch\DirectoryWatch\obj\Debug\DirectoryWatch.csprojResolveAssemblyReference.cache
+D:\KPI\Проекти Студії\DirectoryWatch\DirectoryWatch\obj\Debug\DirectoryWatch.MainForm.resources
+D:\KPI\Проекти Студії\DirectoryWatch\DirectoryWatch\obj\Debug\DirectoryWatch.Properties.Resources.resources
+D:\KPI\Проекти Студії\DirectoryWatch\DirectoryWatch\obj\Debug\DirectoryWatch.csproj.GenerateResource.Cache
+D:\KPI\Проекти Студії\DirectoryWatch\DirectoryWatch\obj\Debug\DirectoryWatch.csproj.CoreCompileInputs.cache

@@ -1,0 +1,28 @@
+﻿<Window x:Class="AudioEditor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AudioEditor"
+        mc:Ignorable="d" 
+        Title="Audio Editor" Height="350" Width="525" Style="{StaticResource MetroStyleWindow}">
+  
+    <Window.Resources>        
+        <Style TargetType="Button" BasedOn="{StaticResource ButtonStyle}"/>        
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition Height="20"/>
+        </Grid.RowDefinitions>
+
+        <Button Name="btn_MakeRingtone" Content="Make Ringtone" Grid.Row="0" Click="MakeRingtone_btn_Click" />
+        <Button Name="btn_WorkWithTwoTracks" Content="Work With Two Tracks" Grid.Row="1" Click="btn_WorkWithTwoTracks_Click"/>
+        <Button Name="btn_Exit" Content="Exit" Grid.Row="2" Click="Exit_btn_Click"/>
+        <StatusBar Name="statusBar" Grid.Row="3" Height="20" VerticalAlignment="Bottom" HorizontalAlignment="Stretch"/>
+    </Grid>
+
+</Window>

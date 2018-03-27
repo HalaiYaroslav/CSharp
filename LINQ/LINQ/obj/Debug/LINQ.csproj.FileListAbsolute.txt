@@ -1,0 +1,6 @@
+D:\Studying\Homeworks\LINQ\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
+D:\Studying\Homeworks\LINQ\LINQ\bin\Debug\LINQ.exe.config
+D:\Studying\Homeworks\LINQ\LINQ\bin\Debug\LINQ.exe
+D:\Studying\Homeworks\LINQ\LINQ\bin\Debug\LINQ.pdb
+D:\Studying\Homeworks\LINQ\LINQ\obj\Debug\LINQ.exe
+D:\Studying\Homeworks\LINQ\LINQ\obj\Debug\LINQ.pdb
