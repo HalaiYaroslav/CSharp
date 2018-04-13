@@ -48,14 +48,6 @@
     <Reference Include="System.Xml.Serialization" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DoctorsBD.cs">
-      <DependentUpon>DoctorsBD.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="DoctorsBD.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>DoctorsBD.xsd</DependentUpon>
-    </Compile>
     <Compile Include="Forms\About.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -146,19 +138,6 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <None Include="cdRegistryApplication.cd" />
-    <None Include="DiagramOfClasses.cd" />
-    <None Include="DoctorsBD.xsc">
-      <DependentUpon>DoctorsBD.xsd</DependentUpon>
-    </None>
-    <None Include="DoctorsBD.xsd">
-      <SubType>Designer</SubType>
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>DoctorsBD.Designer.cs</LastGenOutput>
-    </None>
-    <None Include="DoctorsBD.xss">
-      <DependentUpon>DoctorsBD.xsd</DependentUpon>
-    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -171,11 +150,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="RegistryDataBase.accdb">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
